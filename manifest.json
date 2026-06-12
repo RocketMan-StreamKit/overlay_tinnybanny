@@ -1,0 +1,25 @@
+{
+  "name": {
+    "en": "Tinny Banny ВИD",
+    "ru": "Tinny Banny ВИD",
+    "uk": "Tinny Banny ВИD"
+  },
+  "description": {
+    "en": "This logo from an old TV program still scares a lot of people 😈",
+    "ru": "Этот логотип из старой телевизионной программы до сих пор пугает многих 😈",
+    "uk": "Цей логотип зі старої телевізійної програми досі лякає багатьох 😈"
+  },
+  "type": "overlay",
+  "version": "1.0.0",
+  "author": "RocketMan",
+  "icon": "logo.svg",
+  "overlay": {
+    "audio": "audio.mp3",
+    "video": "video.webm",
+    "defaultVolume": 50,
+    "defaultDuration": 5,
+    "lockDuration": true,
+    "durationMin": 5,
+    "durationMax": 5
+  }
+}
